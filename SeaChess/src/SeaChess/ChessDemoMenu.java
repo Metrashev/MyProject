@@ -25,7 +25,7 @@ public class ChessDemoMenu {
 		jf.setLocationRelativeTo(null);
 		jf.setResizable(false);
 
-		JLabel background = new JLabel(new ImageIcon("D:\\chess.jpg"));
+		JLabel background = new JLabel(new ImageIcon("D:\GitHub\MyProject"));
 		jf.add(background);
 
 		JMenuBar mb = new JMenuBar();
